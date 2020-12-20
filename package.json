@@ -1,6 +1,6 @@
 {
   "name": "@game-action/kingoloto-app",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "kingoloto app to play grids from android app",
   "types": "build/index.d.ts",
   "main": "build/index.js",
